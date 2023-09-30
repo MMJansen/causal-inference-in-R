@@ -166,6 +166,7 @@ ggplot(data, aes(x = x, y = y)) +
 
 Translating this idea into asking good causal questions, we can map the following terms that you will see throughout this book to these diagrams: *exposure* (the cause), *outcome* (the effect), *eligibility criteria* (for whom?), *time zero* (when did the participants begin to be followed?), *target population*, (who can we estimate an outcome effect for?) and *follow up period* (when?).
 
+
 ```{r}
 #| echo: false
 #| label: fig-diagram-4

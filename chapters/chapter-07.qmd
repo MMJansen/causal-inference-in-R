@@ -1,4 +1,4 @@
-# Building propensity score models
+# Building propensity score models {#sec-build-prop}
 
 {{< include 00-setup.qmd >}}
 
